@@ -1,0 +1,2 @@
+rootProject.name = "Curso01PuxandoInfoDeActibity"
+include ':app'
